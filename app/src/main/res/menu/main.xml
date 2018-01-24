@@ -4,6 +4,6 @@
     <item
         android:title="@string/search"
         android:orderInCategory="1"
-        app:showInAction="ifRoom"
-        android:id="+@id/action_search"/>
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_search"/>
 </menu>
